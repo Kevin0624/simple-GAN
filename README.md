@@ -1,0 +1,1 @@
+# This repository is an implementation of a simple Generative Adversarial Network (GAN)
