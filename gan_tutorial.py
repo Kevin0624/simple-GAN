@@ -9,7 +9,6 @@ import torchvision.utils as vutils
 
 import matplotlib.pyplot as plt
 
-# test
 print("System version: ", end="")
 print(sys.version)
 
